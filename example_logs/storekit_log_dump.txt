@@ -1,0 +1,812 @@
+2025-03-26T18:02:36.0799780Z info: BindingsGeneration.BindingsGenerator[0]
+2025-03-26T18:02:36.0800690Z       Starting bindings generation for ./StoreKit.abi.json...
+2025-03-26T18:02:36.0810280Z info: TbdParsing.TbdParser[0]
+2025-03-26T18:02:36.0811060Z       Parsing file /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit.tbd:
+2025-03-26T18:02:36.0835490Z info: TbdParsing.TbdParser[0]
+2025-03-26T18:02:36.0837080Z       Detected format: YamlLikeTbdFormatParser
+2025-03-26T18:02:36.0878900Z warn: TbdParsing.Parsing.YamlLikeTbdFormatParser[0]
+2025-03-26T18:02:36.0880310Z       Unknown top-level key: current-version
+2025-03-26T18:02:36.2827970Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2828950Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2833000Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2834340Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.Reason' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.Reason' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2911190Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2912360Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.RevocationReason' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.RevocationReason' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2913200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2914150Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.OfferType' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.OfferType' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2914750Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2915540Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.OwnershipType' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.OwnershipType' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2916300Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2917010Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.Offer' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.Offer' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2918270Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2919050Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.Offer.PaymentMode' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.Offer.PaymentMode' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2923840Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2924950Z       Error while processing node 'Transactions ($s8StoreKit11TransactionV12TransactionsV)': Index was outside the bounds of the array.
+2025-03-26T18:02:36.2927080Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2928500Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.RefundRequestError' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.RefundRequestError' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2932400Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2934000Z       Error while getting protocol conformance descriptor for 'StoreKit.Transaction.RefundRequestStatus' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Transaction.RefundRequestStatus' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2934690Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2936290Z       Error while getting protocol conformance descriptor for 'StoreKit.AppStore' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.AppStore' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2938330Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2940470Z       Error while getting protocol conformance descriptor for 'StoreKit.AppStore.Environment' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.AppStore.Environment' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2942250Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2943910Z       Error while getting protocol conformance descriptor for 'StoreKit.PurchaseIntent' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.PurchaseIntent' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2944510Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2945480Z       Error while processing node 'PurchaseIntents ($s8StoreKit14PurchaseIntentV0C7IntentsV)': Index was outside the bounds of the array.
+2025-03-26T18:02:36.2945970Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2947540Z       Error while getting protocol conformance descriptor for 'StoreKit.Storefront' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Storefront' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2949070Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2950690Z       Error while processing node 'Storefronts ($s8StoreKit10StorefrontV11StorefrontsV)': Index was outside the bounds of the array.
+2025-03-26T18:02:36.2951580Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2952740Z       Error while getting protocol conformance descriptor for 'StoreKit.ExternalPurchase' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.ExternalPurchase' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2953350Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2954350Z       Error while getting protocol conformance descriptor for 'StoreKit.ExternalPurchase.NoticeResult' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.ExternalPurchase.NoticeResult' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2955000Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2955730Z       Error while getting protocol conformance descriptor for 'StoreKit.ExternalPurchaseLink' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.ExternalPurchaseLink' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2956630Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2957060Z       Generic type 'VerificationResult' not supported. Skipping.
+2025-03-26T18:02:36.2957400Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2958070Z       Error while getting protocol conformance descriptor for 'StoreKit.StoreKitError' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.StoreKitError' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2958600Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2959260Z       Error while getting protocol conformance descriptor for 'StoreKit.BackingValue' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.BackingValue' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2959980Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2960500Z       Not implemented 'subscript' ($s8StoreKit12BackingValueOyACSScip): Unsupported node kind 'Subscript' encountered.
+2025-03-26T18:02:36.2960910Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2961400Z       Not implemented 'subscript' ($s8StoreKit12BackingValueOyACSicip): Unsupported node kind 'Subscript' encountered.
+2025-03-26T18:02:36.2993600Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2994610Z       Error while getting protocol conformance descriptor for 'StoreKit.AppTransaction' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.AppTransaction' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2995190Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2996090Z       Error while getting protocol conformance descriptor for 'StoreKit.Product' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2997200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.2998500Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.ProductType' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.ProductType' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.2999660Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3000440Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionPeriod' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionPeriod' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3001050Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3001790Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionPeriod.Unit' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionPeriod.Unit' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3004670Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3006020Z       Error while processing node 'formatted ($s8StoreKit7ProductV18SubscriptionPeriodV9formatted_13referenceDate12FormatOutputQzx_10Foundation0H0VtAJ0I5StyleRzSnyALG0I5InputRtzlF)': Cannot create a SwiftTypeName from a generic type.
+2025-03-26T18:02:36.3007200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3009130Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionOffer' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionOffer' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3010540Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3011950Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionOffer.OfferType' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionOffer.OfferType' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3013120Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3014720Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionOffer.PaymentMode' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionOffer.PaymentMode' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3016210Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3017750Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionOffer.Signature' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionOffer.Signature' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3018630Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3019720Z       Unsupported accessor kind 'set' encountered.
+2025-03-26T18:02:36.3020760Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3022250Z       Unsupported accessor kind '_modify' encountered.
+2025-03-26T18:02:36.3023330Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3024380Z       Unsupported accessor kind 'set' encountered.
+2025-03-26T18:02:36.3025130Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3026180Z       Unsupported accessor kind '_modify' encountered.
+2025-03-26T18:02:36.3026910Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3027680Z       Unsupported accessor kind 'set' encountered.
+2025-03-26T18:02:36.3028300Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3028960Z       Unsupported accessor kind '_modify' encountered.
+2025-03-26T18:02:36.3029300Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3029700Z       Unsupported accessor kind 'set' encountered.
+2025-03-26T18:02:36.3030040Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3030600Z       Unsupported accessor kind '_modify' encountered.
+2025-03-26T18:02:36.3030940Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3031670Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionInfo' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionInfo' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3032270Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3033060Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionInfo.RenewalState' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionInfo.RenewalState' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3033680Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3034440Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionInfo.RenewalInfo' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionInfo.RenewalInfo' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3035060Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3035890Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionInfo.RenewalInfo.ExpirationReason' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionInfo.RenewalInfo.ExpirationReason' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3036520Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3037360Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3038000Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3038740Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.SubscriptionInfo.Status' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.SubscriptionInfo.Status' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3039640Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3040200Z       Error while processing node 'Statuses ($s8StoreKit7ProductV16SubscriptionInfoV6StatusV8StatusesV)': Index was outside the bounds of the array.
+2025-03-26T18:02:36.3040640Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3041370Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.PurchaseOption' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.PurchaseOption' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3041930Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3042630Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.PurchaseResult' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.PurchaseResult' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3043340Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3044050Z       Error while getting protocol conformance descriptor for 'StoreKit.Product.PurchaseError' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Product.PurchaseError' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3044630Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3045310Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3045880Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3046550Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3047090Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3047770Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3048290Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3049020Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.CustomStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.CustomStringConvertible'.
+2025-03-26T18:02:36.3049590Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3050360Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.CustomDebugStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.CustomDebugStringConvertible'.
+2025-03-26T18:02:36.3050950Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3051680Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.CustomReflectable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.CustomReflectable'.
+2025-03-26T18:02:36.3052240Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3052960Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3053770Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3054460Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3055200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3056110Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Foundation.ReferenceConvertible': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Foundation.ReferenceConvertible'.
+2025-03-26T18:02:36.3056880Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3057650Z       Error while getting protocol conformance descriptor for 'StoreKit.DateComponents' and protocol 'Swift._ObjectiveCBridgeable': Protocol conformance descriptor not found for type 'StoreKit.DateComponents' and protocol 'Swift._ObjectiveCBridgeable'.
+2025-03-26T18:02:36.3058360Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3058930Z       Error while processing node 'DateComponents ($s10Foundation14DateComponentsV)': Metadata accessor not found for type 'StoreKit.DateComponents'.
+2025-03-26T18:02:36.3059540Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3060220Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Comparable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Comparable'.
+2025-03-26T18:02:36.3060920Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3061590Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3062110Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3063090Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3063660Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3064320Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3064840Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3065610Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.CustomDebugStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.CustomDebugStringConvertible'.
+2025-03-26T18:02:36.3066350Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3067140Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.CustomStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.CustomStringConvertible'.
+2025-03-26T18:02:36.3067710Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3068390Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.CustomReflectable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.CustomReflectable'.
+2025-03-26T18:02:36.3068940Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3069590Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3104110Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3104820Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3105570Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3106310Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Foundation.ReferenceConvertible': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Foundation.ReferenceConvertible'.
+2025-03-26T18:02:36.3107550Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3108220Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift._ObjectiveCBridgeable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift._ObjectiveCBridgeable'.
+2025-03-26T18:02:36.3108940Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3109660Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift._CustomPlaygroundQuickLookable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift._CustomPlaygroundQuickLookable'.
+2025-03-26T18:02:36.3110350Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3111360Z       Error while getting protocol conformance descriptor for 'StoreKit.Date' and protocol 'Swift.Strideable': Protocol conformance descriptor not found for type 'StoreKit.Date' and protocol 'Swift.Strideable'.
+2025-03-26T18:02:36.3111860Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3112340Z       Error while processing node 'Date ($s10Foundation4DateV)': Metadata accessor not found for type 'StoreKit.Date'.
+2025-03-26T18:02:36.3112720Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3113080Z       Generic type 'BinaryInteger' not supported. Skipping.
+2025-03-26T18:02:36.3113400Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3113790Z       Generic type 'BinaryFloatingPoint' not supported. Skipping.
+2025-03-26T18:02:36.3114100Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3114740Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3115260Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3115880Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3116360Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3117040Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.RandomAccessCollection': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.RandomAccessCollection'.
+2025-03-26T18:02:36.3117580Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3118230Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.MutableCollection': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.MutableCollection'.
+2025-03-26T18:02:36.3118750Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3119460Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.RangeReplaceableCollection': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.RangeReplaceableCollection'.
+2025-03-26T18:02:36.3119990Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3120670Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Foundation.MutableDataProtocol': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Foundation.MutableDataProtocol'.
+2025-03-26T18:02:36.3121210Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3121860Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Foundation.ContiguousBytes': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Foundation.ContiguousBytes'.
+2025-03-26T18:02:36.3122400Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3123010Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3123680Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3124350Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.BidirectionalCollection': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.BidirectionalCollection'.
+2025-03-26T18:02:36.3124880Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3125500Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Collection': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Collection'.
+2025-03-26T18:02:36.3125980Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3126720Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Foundation.DataProtocol': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Foundation.DataProtocol'.
+2025-03-26T18:02:36.3127240Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3127860Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Sequence': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Sequence'.
+2025-03-26T18:02:36.3128330Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3129010Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Foundation.ReferenceConvertible': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Foundation.ReferenceConvertible'.
+2025-03-26T18:02:36.3129540Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3130190Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift._ObjectiveCBridgeable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift._ObjectiveCBridgeable'.
+2025-03-26T18:02:36.3130740Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3131410Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.CustomStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.CustomStringConvertible'.
+2025-03-26T18:02:36.3131930Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3132640Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.CustomDebugStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.CustomDebugStringConvertible'.
+2025-03-26T18:02:36.3133200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3133860Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.CustomReflectable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.CustomReflectable'.
+2025-03-26T18:02:36.3134370Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3134990Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3135530Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3136170Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3136670Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3137350Z       Error while getting protocol conformance descriptor for 'StoreKit.Data' and protocol 'CoreTransferable.Transferable': Protocol conformance descriptor not found for type 'StoreKit.Data' and protocol 'CoreTransferable.Transferable'.
+2025-03-26T18:02:36.3138050Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3138520Z       Error while processing node 'Data ($s10Foundation4DataV)': Metadata accessor not found for type 'StoreKit.Data'.
+2025-03-26T18:02:36.3138890Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3139520Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3140030Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3140680Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3141200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3141980Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3142490Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3143170Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.CodingKeyRepresentable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.CodingKeyRepresentable'.
+2025-03-26T18:02:36.3143700Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3144370Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift._HasContiguousBytes': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift._HasContiguousBytes'.
+2025-03-26T18:02:36.3144920Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3145600Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.CustomReflectable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.CustomReflectable'.
+2025-03-26T18:02:36.3146140Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3146870Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift._CustomPlaygroundQuickLookable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift._CustomPlaygroundQuickLookable'.
+2025-03-26T18:02:36.3147440Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3148090Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.TextOutputStream': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.TextOutputStream'.
+2025-03-26T18:02:36.3148600Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3149260Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.TextOutputStreamable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.TextOutputStreamable'.
+2025-03-26T18:02:36.3149800Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3150440Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3150920Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3151540Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3152050Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3152790Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift._ExpressibleByBuiltinUnicodeScalarLiteral': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift._ExpressibleByBuiltinUnicodeScalarLiteral'.
+2025-03-26T18:02:36.3153570Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3154360Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift._ExpressibleByBuiltinExtendedGraphemeClusterLiteral': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift._ExpressibleByBuiltinExtendedGraphemeClusterLiteral'.
+2025-03-26T18:02:36.3154960Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3155700Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift._ExpressibleByBuiltinStringLiteral': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift._ExpressibleByBuiltinStringLiteral'.
+2025-03-26T18:02:36.3156260Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3157050Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.ExpressibleByStringLiteral': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.ExpressibleByStringLiteral'.
+2025-03-26T18:02:36.3157620Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3158400Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.ExpressibleByExtendedGraphemeClusterLiteral': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.ExpressibleByExtendedGraphemeClusterLiteral'.
+2025-03-26T18:02:36.3159030Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3159740Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.ExpressibleByUnicodeScalarLiteral': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.ExpressibleByUnicodeScalarLiteral'.
+2025-03-26T18:02:36.3160390Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3161190Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.CustomDebugStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.CustomDebugStringConvertible'.
+2025-03-26T18:02:36.3161740Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3162420Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.CustomStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.CustomStringConvertible'.
+2025-03-26T18:02:36.3162980Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3163680Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.BidirectionalCollection': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.BidirectionalCollection'.
+2025-03-26T18:02:36.3164250Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3164910Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Collection': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Collection'.
+2025-03-26T18:02:36.3165420Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3166040Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Sequence': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Sequence'.
+2025-03-26T18:02:36.3166530Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3167150Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.Comparable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.Comparable'.
+2025-03-26T18:02:36.3167890Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3168920Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.StringProtocol': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.StringProtocol'.
+2025-03-26T18:02:36.3169710Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3170430Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.ExpressibleByStringInterpolation': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.ExpressibleByStringInterpolation'.
+2025-03-26T18:02:36.3170990Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3171670Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.LosslessStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.LosslessStringConvertible'.
+2025-03-26T18:02:36.3172200Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3172990Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.RangeReplaceableCollection': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.RangeReplaceableCollection'.
+2025-03-26T18:02:36.3173530Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3174200Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.MirrorPath': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.MirrorPath'.
+2025-03-26T18:02:36.3174710Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3175390Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift._ObjectiveCBridgeable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift._ObjectiveCBridgeable'.
+2025-03-26T18:02:36.3175950Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3176580Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'Swift.CVarArg': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'Swift.CVarArg'.
+2025-03-26T18:02:36.3177060Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3177740Z       Error while getting protocol conformance descriptor for 'StoreKit.String' and protocol 'CoreTransferable.Transferable': Protocol conformance descriptor not found for type 'StoreKit.String' and protocol 'CoreTransferable.Transferable'.
+2025-03-26T18:02:36.3178270Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3178730Z       Error while processing node 'String ($sSS)': Metadata accessor not found for type 'StoreKit.String'.
+2025-03-26T18:02:36.3179090Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3179430Z       Type 'Decimal' has no mangled name. Skipping.
+2025-03-26T18:02:36.3179720Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3180340Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3180820Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3181430Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3181930Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3182660Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift._ExpressibleByBuiltinBooleanLiteral': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift._ExpressibleByBuiltinBooleanLiteral'.
+2025-03-26T18:02:36.3183220Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3183900Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.ExpressibleByBooleanLiteral': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.ExpressibleByBooleanLiteral'.
+2025-03-26T18:02:36.3184610Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3185280Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.CustomStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.CustomStringConvertible'.
+2025-03-26T18:02:36.3185810Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3186410Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3186920Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3187600Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.LosslessStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.LosslessStringConvertible'.
+2025-03-26T18:02:36.3188210Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3188830Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3189310Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3189930Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3190410Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3191050Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.CustomReflectable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.CustomReflectable'.
+2025-03-26T18:02:36.3191670Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3192370Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift._CustomPlaygroundQuickLookable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift._CustomPlaygroundQuickLookable'.
+2025-03-26T18:02:36.3192960Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3193590Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift.CVarArg': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift.CVarArg'.
+2025-03-26T18:02:36.3194080Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3194750Z       Error while getting protocol conformance descriptor for 'StoreKit.Bool' and protocol 'Swift._ObjectiveCBridgeable': Protocol conformance descriptor not found for type 'StoreKit.Bool' and protocol 'Swift._ObjectiveCBridgeable'.
+2025-03-26T18:02:36.3195280Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3195730Z       Error while processing node 'Bool ($sSb)': Metadata accessor not found for type 'StoreKit.Bool'.
+2025-03-26T18:02:36.3196100Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3196730Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3197230Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3197860Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3198490Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3199250Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.CustomStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.CustomStringConvertible'.
+2025-03-26T18:02:36.3200120Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3200790Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3201270Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3201950Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Foundation.ReferenceConvertible': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Foundation.ReferenceConvertible'.
+2025-03-26T18:02:36.3202480Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3203190Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.CustomDebugStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.CustomDebugStringConvertible'.
+2025-03-26T18:02:36.3203870Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3204600Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift._ObjectiveCBridgeable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift._ObjectiveCBridgeable'.
+2025-03-26T18:02:36.3205140Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3205820Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.CustomReflectable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.CustomReflectable'.
+2025-03-26T18:02:36.3206340Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3206980Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3207500Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3208130Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3208640Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3209260Z       Error while getting protocol conformance descriptor for 'StoreKit.UUID' and protocol 'Swift.Comparable': Protocol conformance descriptor not found for type 'StoreKit.UUID' and protocol 'Swift.Comparable'.
+2025-03-26T18:02:36.3209780Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3210260Z       Error while processing node 'UUID ($s10Foundation4UUIDV)': Metadata accessor not found for type 'StoreKit.UUID'.
+2025-03-26T18:02:36.3210640Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3210990Z       Generic type 'Array' not supported. Skipping.
+2025-03-26T18:02:36.3211320Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3211670Z       Generic type 'Dictionary' not supported. Skipping.
+2025-03-26T18:02:36.3211970Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3212630Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.Hashable': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.Hashable'.
+2025-03-26T18:02:36.3213140Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3213790Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.Decodable': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.Decodable'.
+2025-03-26T18:02:36.3214310Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3214950Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.Encodable': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.Encodable'.
+2025-03-26T18:02:36.3215660Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3216300Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.Sendable'.
+2025-03-26T18:02:36.3216800Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3217490Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.ExpressibleByStringLiteral': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.ExpressibleByStringLiteral'.
+2025-03-26T18:02:36.3218030Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3218710Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.Equatable': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.Equatable'.
+2025-03-26T18:02:36.3219320Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3220130Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.ExpressibleByExtendedGraphemeClusterLiteral': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.ExpressibleByExtendedGraphemeClusterLiteral'.
+2025-03-26T18:02:36.3220720Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3221440Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.ExpressibleByUnicodeScalarLiteral': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.ExpressibleByUnicodeScalarLiteral'.
+2025-03-26T18:02:36.3222000Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3222720Z       Error while getting protocol conformance descriptor for 'StoreKit.Currency' and protocol 'Swift.CustomDebugStringConvertible': Protocol conformance descriptor not found for type 'StoreKit.Currency' and protocol 'Swift.CustomDebugStringConvertible'.
+2025-03-26T18:02:36.3223270Z warn: BindingsGeneration.SwiftABIParser[0]
+2025-03-26T18:02:36.3223800Z       Error while processing node 'Currency ($s10Foundation6LocaleV8CurrencyV)': Metadata accessor not found for type 'StoreKit.Currency'.
+2025-03-26T18:02:36.3261350Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3262320Z       Skipping property 'id' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3265250Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3266270Z       Skipping property 'paymentMode' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3267060Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3267750Z       Skipping property 'errorDescription' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3268400Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3269020Z       Skipping property 'failureReason' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3269520Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3270100Z       Skipping property 'recoverySuggestion' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3274070Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3275480Z       Skipping property 'dynamicCalendarComponent' of type 'Calendar.Component' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3276080Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3277460Z       Skipping property 'calendarComponent' of type 'Calendar.Component' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3278370Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3279550Z       Skipping property 'nonce' of type 'UUID' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3285860Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3287390Z       Skipping property 'foundation' of type 'Any' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3288260Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3289680Z       Skipping property 'xpcAllowed' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3290860Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3291560Z       Skipping property 'type' of type 'Type' from module 'Any'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3292000Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3292520Z       Skipping property 'autoRenewPreference' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3292940Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3293450Z       Skipping property 'expirationReason' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3293960Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3294540Z       Skipping property 'gracePeriodExpirationDate' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3295060Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3295610Z       Skipping property 'offerID' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3296020Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3296620Z       Skipping property 'offerType' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3297110Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3297700Z       Skipping property 'recentSubscriptionStartDateStorage' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3298230Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3298840Z       Skipping property 'recentSubscriptionStartDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3299350Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3299950Z       Skipping property 'renewalDateStorage' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3300390Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3300910Z       Skipping property 'renewalDate' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3301350Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3302130Z       Skipping property 'deviceVerificationNonce' of type 'UUID' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3302600Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3303400Z       Skipping property 'signedDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3303850Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3304670Z       Skipping property 'transaction' of type 'VerificationResult' from module 'StoreKit'. Not found in type declarations.
+2025-03-26T18:02:36.3305180Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3305660Z       Skipping property 'renewalInfo' of type 'VerificationResult' from module 'StoreKit'. Not found in type declarations.
+2025-03-26T18:02:36.3306070Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3306630Z       Skipping property 'id' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3307060Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3307660Z       Skipping property 'price' of type 'Decimal' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3308090Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3308770Z       Skipping property 'introductoryOffer' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3313620Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3314800Z       Skipping property 'errorDescription' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3315970Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3317000Z       Skipping property 'failureReason' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3317580Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3319200Z       Skipping property 'recoverySuggestion' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3320490Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3321580Z       Skipping property 'webOrderLineItemID' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3322600Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3323520Z       Skipping property 'subscriptionGroupID' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3324140Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3324760Z       Skipping property 'purchaseDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3325260Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3325830Z       Skipping property 'originalPurchaseDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3326280Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3326830Z       Skipping property 'expirationDate' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3327260Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3327770Z       Skipping property 'offer' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3328190Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3328710Z       Skipping property 'offerType' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3329160Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3329680Z       Skipping property 'offerID' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3330100Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3330700Z       Skipping property 'offerPaymentModeStringRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3331460Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3332030Z       Skipping property 'revocationDate' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3332460Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3332990Z       Skipping property 'revocationReason' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3333440Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3334010Z       Skipping property 'appAccountToken' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3334440Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3335090Z       Skipping property 'localeStorage' of type 'Locale' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3335550Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3336080Z       Skipping property 'priceStorage' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3336530Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3337070Z       Skipping property 'price' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3337510Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3338070Z       Skipping property 'currencyStorage' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3338530Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3339080Z       Skipping property 'currency' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3339570Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3340130Z       Skipping property 'currencyCode' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3340560Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3341140Z       Skipping property 'deviceVerificationNonce' of type 'UUID' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3341620Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3342160Z       Skipping property 'signedDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3342610Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3343180Z       Skipping property 'subscriptionStatus' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3343630Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3344170Z       Skipping property 'price' of type 'Decimal' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3344620Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3345180Z       Skipping property 'subscription' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3345650Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3346230Z       Skipping property 'priceLocaleStorage' of type 'Locale' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3346700Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3347260Z       Skipping property 'latestTransaction' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3347900Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3348480Z       Skipping property 'currentEntitlement' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3348930Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3349500Z       Skipping property 'priceLocaleInternal' of type 'Locale' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3349950Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3350570Z       Skipping property 'priceFormatStyle' of type 'Decimal.FormatStyle.Currency' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3351060Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3351790Z       Skipping property 'subscriptionPeriodFormatStyle' of type 'Date.ComponentsFormatStyle' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3352310Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3352870Z       Skipping property 'errorDescription' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3353320Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3353870Z       Skipping property 'failureReason' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3354320Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3354880Z       Skipping property 'recoverySuggestion' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3355330Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3355870Z       Skipping property 'appID' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3356310Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3356860Z       Skipping property 'appVersionID' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3357300Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3357870Z       Skipping property 'originalPurchaseDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3358340Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3358880Z       Skipping property 'preorderDate' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3359330Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3360000Z       Skipping property 'deviceVerificationNonce' of type 'UUID' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3360460Z warn: BindingsGeneration.ModuleProcessor[0]
+2025-03-26T18:02:36.3361020Z       Skipping property 'signedDate' of type 'Date' from module 'Foundation'. Type should have been processed in a previous module but was not found.
+2025-03-26T18:02:36.3552730Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3553600Z       PropertyHandler: Couldn't process property webOrderLineItemID of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3554260Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3555440Z       PropertyHandler: Couldn't process property subscriptionGroupID of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3555870Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3556490Z       PropertyHandler: Couldn't process property purchaseDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3557390Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3557960Z       PropertyHandler: Couldn't process property originalPurchaseDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3558360Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3558850Z       PropertyHandler: Couldn't process property expirationDate of type Swift.Optional<Foundation.Date>. Skipping.
+2025-03-26T18:02:36.3559250Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3559730Z       PropertyHandler: Couldn't process property offer of type Swift.Optional<StoreKit.Transaction.Offer>. Skipping.
+2025-03-26T18:02:36.3560130Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3560640Z       PropertyHandler: Couldn't process property offerType of type Swift.Optional<StoreKit.Transaction.OfferType>. Skipping.
+2025-03-26T18:02:36.3561230Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3561720Z       PropertyHandler: Couldn't process property offerID of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3562110Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3562640Z       PropertyHandler: Couldn't process property offerPaymentModeStringRepresentation of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3563100Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3563590Z       PropertyHandler: Couldn't process property revocationDate of type Swift.Optional<Foundation.Date>. Skipping.
+2025-03-26T18:02:36.3563970Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3564500Z       PropertyHandler: Couldn't process property revocationReason of type Swift.Optional<StoreKit.Transaction.RevocationReason>. Skipping.
+2025-03-26T18:02:36.3564940Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3565410Z       PropertyHandler: Couldn't process property appAccountToken of type Swift.Optional<Foundation.UUID>. Skipping.
+2025-03-26T18:02:36.3565800Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3566280Z       PropertyHandler: Couldn't process property priceStorage of type Swift.Optional<Foundation.Decimal>. Skipping.
+2025-03-26T18:02:36.3566680Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3567130Z       PropertyHandler: Couldn't process property price of type Swift.Optional<Foundation.Decimal>. Skipping.
+2025-03-26T18:02:36.3567540Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3568420Z       PropertyHandler: Couldn't process property currencyStorage of type Swift.Optional<Foundation.Locale.Currency>. Skipping.
+2025-03-26T18:02:36.3568870Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3569370Z       PropertyHandler: Couldn't process property currency of type Swift.Optional<Foundation.Locale.Currency>. Skipping.
+2025-03-26T18:02:36.3569820Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3570310Z       PropertyHandler: Couldn't process property currencyCode of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3570700Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3571180Z       PropertyHandler: Couldn't process property deviceVerificationNonce of type Foundation.UUID. Skipping.
+2025-03-26T18:02:36.3571580Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3572030Z       PropertyHandler: Couldn't process property signedDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3572420Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3572900Z       PropertyHandler: Couldn't process property all of type StoreKit.Transaction.Transactions. Skipping.
+2025-03-26T18:02:36.3573290Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3573790Z       PropertyHandler: Couldn't process property currentEntitlements of type StoreKit.Transaction.Transactions. Skipping.
+2025-03-26T18:02:36.3574390Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3574880Z       PropertyHandler: Couldn't process property unfinished of type StoreKit.Transaction.Transactions. Skipping.
+2025-03-26T18:02:36.3575290Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3575780Z       PropertyHandler: Couldn't process property updates of type StoreKit.Transaction.Transactions. Skipping.
+2025-03-26T18:02:36.3576200Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3576750Z       PropertyHandler: Couldn't process property subscriptionStatus of type Swift.Optional<StoreKit.Product.SubscriptionInfo.Status>. Skipping.
+2025-03-26T18:02:36.3588110Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3589780Z       Constructor init has unsupported signature: ( Swift.StoreKit.BackingValue arg0) -> Swift.AnyType<Swift.StoreKit.Transaction.Reason>
+2025-03-26T18:02:36.3591280Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3593250Z       PropertyHandler: Couldn't process property id of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3594610Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3596250Z       PropertyHandler: Couldn't process property paymentMode of type Swift.Optional<StoreKit.Transaction.Offer.PaymentMode>. Skipping.
+2025-03-26T18:02:36.3597800Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3598370Z       Constructor init has unsupported signature: ( Swift.StoreKit.BackingValue arg0) -> Swift.AnyType<Swift.StoreKit.Transaction.Offer.PaymentMode>
+2025-03-26T18:02:36.3598830Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3599270Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3599630Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3600990Z       PropertyHandler: Couldn't process property duplicateRequest of type (StoreKit.Transaction.RefundRequestError.Type) -> StoreKit.Transaction.RefundRequestError. Skipping.
+2025-03-26T18:02:36.3601760Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3603020Z       PropertyHandler: Couldn't process property failed of type (StoreKit.Transaction.RefundRequestError.Type) -> StoreKit.Transaction.RefundRequestError. Skipping.
+2025-03-26T18:02:36.3604270Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3605920Z       PropertyHandler: Couldn't process property errorDescription of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3606780Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3607900Z       PropertyHandler: Couldn't process property failureReason of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3608290Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3608760Z       PropertyHandler: Couldn't process property recoverySuggestion of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3609180Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3612080Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3614870Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3617100Z       PropertyHandler: Couldn't process property success of type (StoreKit.Transaction.RefundRequestStatus.Type) -> StoreKit.Transaction.RefundRequestStatus. Skipping.
+2025-03-26T18:02:36.3617960Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3619340Z       PropertyHandler: Couldn't process property userCancelled of type (StoreKit.Transaction.RefundRequestStatus.Type) -> StoreKit.Transaction.RefundRequestStatus. Skipping.
+2025-03-26T18:02:36.3620170Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3620650Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3621000Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3621390Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3621930Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3622460Z       Method currentEntitlement has unsupported signature: ( Swift.SwiftString _for) -> Swift.AnyType<Swift.AnyType<Swift.StoreKit.Transaction>>
+2025-03-26T18:02:36.3622880Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3623380Z       Method latest has unsupported signature: ( Swift.SwiftString _for) -> Swift.AnyType<Swift.AnyType<Swift.StoreKit.Transaction>>
+2025-03-26T18:02:36.3623780Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3624280Z       Method beginRefundRequest has unsupported signature: ( Swift.AnyType _in) -> Swift.StoreKit.Transaction.RefundRequestStatus
+2025-03-26T18:02:36.3624690Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3625220Z       Method beginRefundRequest has unsupported signature: ( System.UInt64 _for,  Swift.AnyType _in) -> Swift.StoreKit.Transaction.RefundRequestStatus
+2025-03-26T18:02:36.3625760Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3626420Z       PropertyHandler: Couldn't process property deviceVerificationID of type Swift.Optional<Foundation.UUID>. Skipping.
+2025-03-26T18:02:36.3626880Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3627410Z       Constructor init has unsupported signature: ( Swift.StoreKit.BackingValue arg0) -> Swift.AnyType<Swift.StoreKit.AppStore.Environment>
+2025-03-26T18:02:36.3627830Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3628260Z       Method requestReview has unsupported signature: ( Swift.AnyType _in) -> void
+2025-03-26T18:02:36.3628610Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3629080Z       PropertyHandler: Couldn't process property intents of type StoreKit.PurchaseIntent.PurchaseIntents. Skipping.
+2025-03-26T18:02:36.3629470Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3629940Z       PropertyHandler: Couldn't process property localeStorage of type Foundation.Locale. Skipping.
+2025-03-26T18:02:36.3630300Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3630760Z       PropertyHandler: Couldn't process property current of type Swift.Optional<StoreKit.Storefront>. Skipping.
+2025-03-26T18:02:36.3631140Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3631610Z       PropertyHandler: Couldn't process property updates of type StoreKit.Storefront.Storefronts. Skipping.
+2025-03-26T18:02:36.3631990Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3632550Z       Constructor init has unsupported signature: ( Swift.SwiftString iso3ACountryCode,  Swift.SwiftString id,  Swift.AnyType locale) -> Swift.StoreKit.Storefront
+2025-03-26T18:02:36.3632990Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3633550Z       PropertyHandler: Couldn't process property cancelled of type (StoreKit.ExternalPurchase.NoticeResult.Type) -> StoreKit.ExternalPurchase.NoticeResult. Skipping.
+2025-03-26T18:02:36.3634010Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3634650Z       PropertyHandler: Couldn't process property continuedWithExternalPurchaseToken of type (StoreKit.ExternalPurchase.NoticeResult.Type) -> (Swift.String) -> StoreKit.ExternalPurchase.NoticeResult. Skipping.
+2025-03-26T18:02:36.3635150Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3635540Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3635880Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3636370Z       PropertyHandler: Couldn't process property eligibleURLs of type Swift.Optional<Swift.Array<Foundation.URL>>. Skipping.
+2025-03-26T18:02:36.3636760Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3637150Z       Method open has unsupported signature: ( Swift.AnyType url) -> void
+2025-03-26T18:02:36.3637480Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3638120Z       PropertyHandler: Couldn't process property unknown of type (StoreKit.StoreKitError.Type) -> StoreKit.StoreKitError. Skipping.
+2025-03-26T18:02:36.3638520Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3639030Z       PropertyHandler: Couldn't process property userCancelled of type (StoreKit.StoreKitError.Type) -> StoreKit.StoreKitError. Skipping.
+2025-03-26T18:02:36.3639440Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3639990Z       PropertyHandler: Couldn't process property networkError of type (StoreKit.StoreKitError.Type) -> (Foundation.URLError) -> StoreKit.StoreKitError. Skipping.
+2025-03-26T18:02:36.3640430Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3640960Z       PropertyHandler: Couldn't process property systemError of type (StoreKit.StoreKitError.Type) -> (any Swift.Error) -> StoreKit.StoreKitError. Skipping.
+2025-03-26T18:02:36.3641490Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3642030Z       PropertyHandler: Couldn't process property notAvailableInStorefront of type (StoreKit.StoreKitError.Type) -> StoreKit.StoreKitError. Skipping.
+2025-03-26T18:02:36.3642460Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3642960Z       PropertyHandler: Couldn't process property notEntitled of type (StoreKit.StoreKitError.Type) -> StoreKit.StoreKitError. Skipping.
+2025-03-26T18:02:36.3643370Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3643840Z       PropertyHandler: Couldn't process property errorDescription of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3644220Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3644680Z       PropertyHandler: Couldn't process property failureReason of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3645060Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3645520Z       PropertyHandler: Couldn't process property recoverySuggestion of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3645910Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3646430Z       PropertyHandler: Couldn't process property string of type (StoreKit.BackingValue.Type) -> (Swift.String) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3646850Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3647370Z       PropertyHandler: Couldn't process property number of type (StoreKit.BackingValue.Type) -> (Swift.Double) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3647800Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3648320Z       PropertyHandler: Couldn't process property bigInt of type (StoreKit.BackingValue.Type) -> (Swift.Int64) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3648740Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3649260Z       PropertyHandler: Couldn't process property bool of type (StoreKit.BackingValue.Type) -> (Swift.Bool) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3649670Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3650230Z       PropertyHandler: Couldn't process property array of type (StoreKit.BackingValue.Type) -> (Swift.Array<StoreKit.BackingValue>) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3650780Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3651400Z       PropertyHandler: Couldn't process property dictionary of type (StoreKit.BackingValue.Type) -> (Swift.Dictionary<Swift.String, StoreKit.BackingValue>) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3651880Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3652370Z       PropertyHandler: Couldn't process property nil of type (StoreKit.BackingValue.Type) -> StoreKit.BackingValue. Skipping.
+2025-03-26T18:02:36.3652770Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3653360Z       PropertyHandler: Couldn't process property foundation of type Swift.Any. Skipping.
+2025-03-26T18:02:36.3653720Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3654190Z       PropertyHandler: Couldn't process property xpcAllowed of type Swift.Optional<Foundation.NSObject>. Skipping.
+2025-03-26T18:02:36.3654570Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3654990Z       PropertyHandler: Couldn't process property type of type any Any.Type. Skipping.
+2025-03-26T18:02:36.3655340Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3655800Z       Constructor init has unsupported signature: ( Swift.AnyType foundation) -> Swift.StoreKit.BackingValue
+2025-03-26T18:02:36.3656240Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3656550Z       Constructor init has unsupported generic parameters
+2025-03-26T18:02:36.3656860Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3657530Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3657880Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3658320Z       Constructor init has unsupported signature: ( Swift.AnyType from) -> Swift.StoreKit.BackingValue
+2025-03-26T18:02:36.3658690Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3659170Z       Method value has unsupported signature: ( Swift.SwiftArray<Swift.SwiftString> atKeyPath,  Swift.AnyType sentinel,  Swift.AnyType transform) -> T0
+2025-03-26T18:02:36.3659600Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3660110Z       Constructor init has unsupported signature: ( Swift.StoreKit.BackingValue arg0) -> Swift.AnyType<Swift.StoreKit.BackingValue>
+2025-03-26T18:02:36.3660510Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3660960Z       PropertyHandler: Couldn't process property appID of type Swift.Optional<Swift.UInt64>. Skipping.
+2025-03-26T18:02:36.3661330Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3661790Z       PropertyHandler: Couldn't process property appVersionID of type Swift.Optional<Swift.UInt64>. Skipping.
+2025-03-26T18:02:36.3662170Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3662610Z       PropertyHandler: Couldn't process property originalPurchaseDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3662990Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3663450Z       PropertyHandler: Couldn't process property preorderDate of type Swift.Optional<Foundation.Date>. Skipping.
+2025-03-26T18:02:36.3663830Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3664280Z       PropertyHandler: Couldn't process property deviceVerificationNonce of type Foundation.UUID. Skipping.
+2025-03-26T18:02:36.3664660Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3665100Z       PropertyHandler: Couldn't process property signedDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3665460Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3665940Z       PropertyHandler: Couldn't process property shared of type StoreKit.VerificationResult<StoreKit.AppTransaction>. Skipping.
+2025-03-26T18:02:36.3666340Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3666780Z       Method refresh has unsupported signature: () -> Swift.AnyType<Swift.StoreKit.AppTransaction>
+2025-03-26T18:02:36.3667140Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3667530Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3667860Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3668290Z       PropertyHandler: Couldn't process property price of type Foundation.Decimal. Skipping.
+2025-03-26T18:02:36.3668640Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3669140Z       PropertyHandler: Couldn't process property subscription of type Swift.Optional<StoreKit.Product.SubscriptionInfo>. Skipping.
+2025-03-26T18:02:36.3669640Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3670090Z       PropertyHandler: Couldn't process property priceLocaleStorage of type Foundation.Locale. Skipping.
+2025-03-26T18:02:36.3670470Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3671000Z       PropertyHandler: Couldn't process property latestTransaction of type Swift.Optional<StoreKit.VerificationResult<StoreKit.Transaction>>. Skipping.
+2025-03-26T18:02:36.3671440Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3671970Z       PropertyHandler: Couldn't process property currentEntitlement of type Swift.Optional<StoreKit.VerificationResult<StoreKit.Transaction>>. Skipping.
+2025-03-26T18:02:36.3672400Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3672850Z       PropertyHandler: Couldn't process property priceLocaleInternal of type Foundation.Locale. Skipping.
+2025-03-26T18:02:36.3673310Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3673810Z       PropertyHandler: Couldn't process property priceFormatStyle of type Foundation.Decimal.FormatStyle.Currency. Skipping.
+2025-03-26T18:02:36.3674250Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3674760Z       PropertyHandler: Couldn't process property subscriptionPeriodFormatStyle of type Foundation.Date.ComponentsFormatStyle. Skipping.
+2025-03-26T18:02:36.3675170Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3675730Z       PropertyHandler: Couldn't process property day of type (StoreKit.Product.SubscriptionPeriod.Unit.Type) -> StoreKit.Product.SubscriptionPeriod.Unit. Skipping.
+2025-03-26T18:02:36.3676170Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3676730Z       PropertyHandler: Couldn't process property week of type (StoreKit.Product.SubscriptionPeriod.Unit.Type) -> StoreKit.Product.SubscriptionPeriod.Unit. Skipping.
+2025-03-26T18:02:36.3677190Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3677750Z       PropertyHandler: Couldn't process property month of type (StoreKit.Product.SubscriptionPeriod.Unit.Type) -> StoreKit.Product.SubscriptionPeriod.Unit. Skipping.
+2025-03-26T18:02:36.3678200Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3679150Z       PropertyHandler: Couldn't process property year of type (StoreKit.Product.SubscriptionPeriod.Unit.Type) -> StoreKit.Product.SubscriptionPeriod.Unit. Skipping.
+2025-03-26T18:02:36.3679640Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3680140Z       PropertyHandler: Couldn't process property dynamicCalendarComponent of type Foundation.Calendar.Component. Skipping.
+2025-03-26T18:02:36.3680540Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3681010Z       PropertyHandler: Couldn't process property calendarComponent of type Foundation.Calendar.Component. Skipping.
+2025-03-26T18:02:36.3681400Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3681900Z       Method locale has unsupported signature: ( Swift.AnyType arg0) -> Swift.StoreKit.Product.SubscriptionPeriod.Unit.FormatStyle
+2025-03-26T18:02:36.3682300Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3682690Z       Method encode has unsupported signature: ( Swift.AnyType to) -> void
+2025-03-26T18:02:36.3683030Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3683540Z       Constructor init has unsupported signature: ( Swift.AnyType from) -> Swift.StoreKit.Product.SubscriptionPeriod.Unit.FormatStyle
+2025-03-26T18:02:36.3683940Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3684330Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3684660Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3685050Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3685520Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3685930Z       Method formatted has unsupported signature: ( T0 arg0) -> Swift.AnyType
+2025-03-26T18:02:36.3686260Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3686640Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3686970Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3687430Z       Method dateRange has unsupported signature: ( Swift.AnyType referenceDate) -> Swift.AnyType<Swift.AnyType>
+2025-03-26T18:02:36.3687800Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3688250Z       Method formatted has unsupported signature: ( T0 arg0,  Swift.AnyType referenceDate) -> Swift.AnyType
+2025-03-26T18:02:36.3688630Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3689060Z       PropertyHandler: Couldn't process property id of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3689530Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3689960Z       PropertyHandler: Couldn't process property price of type Foundation.Decimal. Skipping.
+2025-03-26T18:02:36.3690320Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3690740Z       PropertyHandler: Couldn't process property nonce of type Foundation.UUID. Skipping.
+2025-03-26T18:02:36.3691100Z warn: BindingsGeneration.ConstructorHandlerFactory[0]
+2025-03-26T18:02:36.3691730Z       Constructor init has unsupported signature: ( Swift.SwiftString keyID,  Swift.AnyType nonce,  System.IntPtr timestamp,  Swift.Data signature) -> Swift.StoreKit.Product.SubscriptionOffer.Signature
+2025-03-26T18:02:36.3692220Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3692610Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3692940Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3693330Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3693660Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3694170Z       PropertyHandler: Couldn't process property introductoryOffer of type Swift.Optional<StoreKit.Product.SubscriptionOffer>. Skipping.
+2025-03-26T18:02:36.3694660Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3696570Z       PropertyHandler: Couldn't process property autoRenewPreference of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3696980Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3697550Z       PropertyHandler: Couldn't process property expirationReason of type Swift.Optional<StoreKit.Product.SubscriptionInfo.RenewalInfo.ExpirationReason>. Skipping.
+2025-03-26T18:02:36.3698040Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3698530Z       PropertyHandler: Couldn't process property gracePeriodExpirationDate of type Swift.Optional<Foundation.Date>. Skipping.
+2025-03-26T18:02:36.3698940Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3699400Z       PropertyHandler: Couldn't process property offerID of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3699770Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3700250Z       PropertyHandler: Couldn't process property offerType of type Swift.Optional<StoreKit.Transaction.OfferType>. Skipping.
+2025-03-26T18:02:36.3700730Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3701210Z       PropertyHandler: Couldn't process property recentSubscriptionStartDateStorage of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3701880Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3702380Z       PropertyHandler: Couldn't process property recentSubscriptionStartDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3702790Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3703300Z       PropertyHandler: Couldn't process property renewalDateStorage of type Swift.Optional<Foundation.Date>. Skipping.
+2025-03-26T18:02:36.3703940Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3704450Z       PropertyHandler: Couldn't process property renewalDate of type Swift.Optional<Foundation.Date>. Skipping.
+2025-03-26T18:02:36.3704870Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3705440Z       PropertyHandler: Couldn't process property deviceVerificationNonce of type Foundation.UUID. Skipping.
+2025-03-26T18:02:36.3705850Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3706320Z       PropertyHandler: Couldn't process property signedDate of type Foundation.Date. Skipping.
+2025-03-26T18:02:36.3718640Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3720260Z       PropertyHandler: Couldn't process property noIncreasePending of type (StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus.Type) -> StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus. Skipping.
+2025-03-26T18:02:36.3721100Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3722560Z       PropertyHandler: Couldn't process property pending of type (StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus.Type) -> StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus. Skipping.
+2025-03-26T18:02:36.3724510Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3726390Z       PropertyHandler: Couldn't process property agreed of type (StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus.Type) -> StoreKit.Product.SubscriptionInfo.RenewalInfo.PriceIncreaseStatus. Skipping.
+2025-03-26T18:02:36.3727310Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3728180Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3729110Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3730350Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3730750Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3731380Z       PropertyHandler: Couldn't process property transaction of type StoreKit.VerificationResult<StoreKit.Transaction>. Skipping.
+2025-03-26T18:02:36.3731860Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3732460Z       PropertyHandler: Couldn't process property renewalInfo of type StoreKit.VerificationResult<StoreKit.Product.SubscriptionInfo.RenewalInfo>. Skipping.
+2025-03-26T18:02:36.3734140Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3735610Z       PropertyHandler: Couldn't process property updates of type StoreKit.Product.SubscriptionInfo.Status.Statuses. Skipping.
+2025-03-26T18:02:36.3736400Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3737520Z       PropertyHandler: Couldn't process property all of type _Concurrency.AsyncStream<(groupID: Swift.String, statuses: Swift.Array<StoreKit.Product.SubscriptionInfo.Status>)>. Skipping.
+2025-03-26T18:02:36.3738150Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3738600Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3739380Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3739900Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3740270Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3740870Z       Method appAccountToken has unsupported signature: ( Swift.AnyType arg0) -> Swift.StoreKit.Product.PurchaseOption
+2025-03-26T18:02:36.3741310Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3742030Z       Method promotionalOffer has unsupported signature: ( Swift.SwiftString offerID,  Swift.SwiftString keyID,  Swift.AnyType nonce,  Swift.Data signature,  System.IntPtr timestamp) -> Swift.StoreKit.Product.PurchaseOption
+2025-03-26T18:02:36.3742610Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3743410Z       Method onStorefrontChange has unsupported signature: ( Swift.AnyType shouldContinuePurchase) -> Swift.StoreKit.Product.PurchaseOption
+2025-03-26T18:02:36.3743890Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3744320Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3744700Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3745430Z       PropertyHandler: Couldn't process property success of type (StoreKit.Product.PurchaseResult.Type) -> (StoreKit.VerificationResult<StoreKit.Transaction>) -> StoreKit.Product.PurchaseResult. Skipping.
+2025-03-26T18:02:36.3746020Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3746630Z       PropertyHandler: Couldn't process property userCancelled of type (StoreKit.Product.PurchaseResult.Type) -> StoreKit.Product.PurchaseResult. Skipping.
+2025-03-26T18:02:36.3747220Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3747820Z       PropertyHandler: Couldn't process property pending of type (StoreKit.Product.PurchaseResult.Type) -> StoreKit.Product.PurchaseResult. Skipping.
+2025-03-26T18:02:36.3748290Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3748860Z       PropertyHandler: Couldn't process property invalidQuantity of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3749390Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3749980Z       PropertyHandler: Couldn't process property productUnavailable of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3750460Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3751040Z       PropertyHandler: Couldn't process property purchaseNotAllowed of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3751530Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3752150Z       PropertyHandler: Couldn't process property ineligibleForOffer of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3752640Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3753270Z       PropertyHandler: Couldn't process property invalidOfferIdentifier of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3753760Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3754350Z       PropertyHandler: Couldn't process property invalidOfferPrice of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3754820Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3755410Z       PropertyHandler: Couldn't process property invalidOfferSignature of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3755900Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3756490Z       PropertyHandler: Couldn't process property missingOfferParameters of type (StoreKit.Product.PurchaseError.Type) -> StoreKit.Product.PurchaseError. Skipping.
+2025-03-26T18:02:36.3756970Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3757520Z       PropertyHandler: Couldn't process property errorDescription of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3757940Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3758470Z       PropertyHandler: Couldn't process property failureReason of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3758880Z warn: BindingsGeneration.PropertyHandlerFactory[0]
+2025-03-26T18:02:36.3759380Z       PropertyHandler: Couldn't process property recoverySuggestion of type Swift.Optional<Swift.String>. Skipping.
+2025-03-26T18:02:36.3759800Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3760340Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3760790Z warn: BindingsGeneration.MethodHandlerFactory[0]
+2025-03-26T18:02:36.3761210Z       Method hash has unsupported signature: ( Swift.AnyType into) -> void
+2025-03-26T18:02:36.3775440Z info: BindingsGeneration.BindingsGenerator[0]
+2025-03-26T18:02:36.3777050Z       Bindings generation completed for ./StoreKit.abi.json.

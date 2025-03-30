@@ -1,0 +1,660 @@
+info: BindingsGeneration.BindingsGenerator[0]
+      Starting bindings generation for ./CryptoKit.abi.json...
+info: TbdParsing.TbdParser[0]
+      Parsing file /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CryptoKit.framework/CryptoKit.tbd:
+info: TbdParsing.TbdParser[0]
+      Detected format: YamlLikeTbdFormatParser
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.KeyAgreement' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.KeyAgreement' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.KeyAgreement' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.KeyAgreement' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.KeyAgreement.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.KeyAgreement.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.KeyAgreement.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.KeyAgreement.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.Signing' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.Signing' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.Signing' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.Signing' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.Signing.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.Signing.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.Signing.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.Signing.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.Signing.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.Signing.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Curve25519.Signing.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Curve25519.Signing.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.KEM' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.KEM' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.KEM' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.KEM' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.KEM.EncapsulationResult' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.KEM.EncapsulationResult' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.KEM.EncapsulationResult' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.KEM.EncapsulationResult' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'KEMPrivateKey' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HMAC' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HashedAuthenticationCode' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing.ECDSASignature' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing.ECDSASignature' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.Signing.ECDSASignature' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.Signing.ECDSASignature' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Unsupported accessor kind 'set' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Unsupported accessor kind '_modify' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.KeyAgreement' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.KeyAgreement' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.KeyAgreement' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.KeyAgreement' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.KeyAgreement.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.KeyAgreement.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.KeyAgreement.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.KeyAgreement.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing.ECDSASignature' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing.ECDSASignature' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.Signing.ECDSASignature' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.Signing.ECDSASignature' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Unsupported accessor kind 'set' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Unsupported accessor kind '_modify' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.KeyAgreement' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.KeyAgreement' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.KeyAgreement' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.KeyAgreement' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.KeyAgreement.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.KeyAgreement.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.KeyAgreement.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.KeyAgreement.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P384.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P384.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P384.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing.ECDSASignature' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing.ECDSASignature' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.Signing.ECDSASignature' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.Signing.ECDSASignature' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Unsupported accessor kind 'set' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Unsupported accessor kind '_modify' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.KeyAgreement' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.KeyAgreement' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.KeyAgreement' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.KeyAgreement' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.KeyAgreement.PublicKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.KeyAgreement.PublicKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.KeyAgreement.PublicKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.KeyAgreement.PublicKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.P521.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.P521.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.P521.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'Digest' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HPKEDiffieHellmanPublicKey' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HPKEDiffieHellmanPrivateKey' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HPKEDiffieHellmanPrivateKeyGeneration' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HKDF' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA256' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SHA256' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA256' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SHA256' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA384' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SHA384' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA384' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SHA384' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA512' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SHA512' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA512' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SHA512' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.SHA1' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.SHA1' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.SHA1' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.SHA1' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.MD5' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.MD5' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.MD5' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.MD5' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.SHA1Digest' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.SHA1Digest' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.SHA1Digest' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.SHA1Digest' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.MD5Digest' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.MD5Digest' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.Insecure.MD5Digest' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.Insecure.MD5Digest' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly.SealedBox' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly.SealedBox' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly.SealedBox' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly.SealedBox' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly.SealedBox' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly.SealedBox' and protocol 'Swift.Sendable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly.Nonce' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly.Nonce' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.ChaChaPoly.Nonce' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.ChaChaPoly.Nonce' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.AES' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.AES' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.KeyWrap' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.AES.KeyWrap' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.KeyWrap' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.AES.KeyWrap' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.GCM' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.AES.GCM' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.GCM' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.AES.GCM' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.GCM.SealedBox' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.AES.GCM.SealedBox' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.GCM.SealedBox' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.AES.GCM.SealedBox' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.GCM.Nonce' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.AES.GCM.Nonce' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.AES.GCM.Nonce' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.AES.GCM.Nonce' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SymmetricKeySize' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SymmetricKeySize' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SymmetricKeySize' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SymmetricKeySize' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SymmetricKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SymmetricKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SymmetricKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SymmetricKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'HashFunction' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Not implemented 'PublicKey' ($s9CryptoKit25DiffieHellmanKeyAgreementP06PublicE0Qa): Unsupported node kind 'AssociatedType' encountered.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SharedSecret' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SharedSecret' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SharedSecret' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SharedSecret' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Generic type 'MessageAuthenticationCode' not supported. Skipping.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.CryptoKitError' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.CryptoKitError' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.CryptoKitError' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.CryptoKitError' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.CryptoKitError' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'CryptoKit.CryptoKitError' and protocol 'Swift.Sendable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.CryptoKitASN1Error' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.CryptoKitASN1Error' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.CryptoKitASN1Error' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.CryptoKitASN1Error' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.CryptoKitASN1Error' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'CryptoKit.CryptoKitASN1Error' and protocol 'Swift.Sendable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.KDF' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.KDF' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.KDF' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.KDF' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.KEM' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.KEM' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.KEM' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.KEM' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Ciphersuite' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Ciphersuite' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Ciphersuite' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Ciphersuite' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.AEAD' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.AEAD' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.AEAD' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.AEAD' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.DHKEM' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.DHKEM' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.DHKEM' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.DHKEM' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Sender' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Sender' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Sender' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Sender' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Recipient' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Recipient' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Recipient' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Recipient' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Errors' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Errors' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Errors' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Errors' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.HPKE.Errors' and protocol 'Swift.Sendable': Protocol conformance descriptor not found for type 'CryptoKit.HPKE.Errors' and protocol 'Swift.Sendable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA256Digest' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SHA256Digest' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA256Digest' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SHA256Digest' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA384Digest' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SHA384Digest' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA384Digest' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SHA384Digest' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA512Digest' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SHA512Digest' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SHA512Digest' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SHA512Digest' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.Signing' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.Signing' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.Signing' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.Signing' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.Signing.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.Signing.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.Signing.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.Signing.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.KeyAgreement' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.KeyAgreement' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.KeyAgreement' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.KeyAgreement' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Copyable'.
+warn: BindingsGeneration.SwiftABIParser[0]
+      Error while getting protocol conformance descriptor for 'CryptoKit.SecureEnclave.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable': Protocol conformance descriptor not found for type 'CryptoKit.SecureEnclave.P256.KeyAgreement.PrivateKey' and protocol 'Swift.Escapable'.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'compactRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'compactRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'compactRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'compactRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'compactRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'compactRepresentation' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ModuleProcessor[0]
+      Skipping property 'combined' of type 'Optional' from module 'Swift'. Type should have been processed in a previous module but was not found.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property compactRepresentation of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property compactRepresentation of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property compactRepresentation of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property compactRepresentation of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property compactRepresentation of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property compactRepresentation of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method makeIterator has unsupported signature: () -> Swift.AnyType<Swift.SwiftArray<System.Byte>>
+warn: BindingsGeneration.MethodHandler[0]
+      Method seal has unsupported signature: ( T0 arg0,  Swift.CryptoKit.SymmetricKey _using,  Swift.AnyType<Swift.CryptoKit.ChaChaPoly.Nonce> nonce,  T1 authenticating) -> Swift.CryptoKit.ChaChaPoly.SealedBox
+warn: BindingsGeneration.MethodHandler[0]
+      Method seal has unsupported signature: ( T0 arg0,  Swift.CryptoKit.SymmetricKey _using,  Swift.AnyType<Swift.CryptoKit.ChaChaPoly.Nonce> nonce) -> Swift.CryptoKit.ChaChaPoly.SealedBox
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property combined of type Swift.Optional<Foundation.Data>. Skipping.
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method makeIterator has unsupported signature: () -> Swift.AnyType<Swift.SwiftArray<System.Byte>>
+warn: BindingsGeneration.MethodHandler[0]
+      Method seal has unsupported signature: ( T0 arg0,  Swift.CryptoKit.SymmetricKey _using,  Swift.AnyType<Swift.CryptoKit.AES.GCM.Nonce> nonce,  T1 authenticating) -> Swift.CryptoKit.AES.GCM.SealedBox
+warn: BindingsGeneration.MethodHandler[0]
+      Method seal has unsupported signature: ( T0 arg0,  Swift.CryptoKit.SymmetricKey _using,  Swift.AnyType<Swift.CryptoKit.AES.GCM.Nonce> nonce) -> Swift.CryptoKit.AES.GCM.SealedBox
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method x963DerivedSymmetricKey has unsupported signature: ( Swift.AnyType _using,  T1 sharedInfo,  System.IntPtr outputByteCount) -> Swift.CryptoKit.SymmetricKey
+warn: BindingsGeneration.MethodHandler[0]
+      Method hkdfDerivedSymmetricKey has unsupported signature: ( Swift.AnyType _using,  T1 salt,  T2 sharedInfo,  System.IntPtr outputByteCount) -> Swift.CryptoKit.SymmetricKey
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property incorrectKeySize of type (CryptoKit.CryptoKitError.Type) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property incorrectParameterSize of type (CryptoKit.CryptoKitError.Type) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property authenticationFailure of type (CryptoKit.CryptoKitError.Type) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property underlyingCoreCryptoError of type (CryptoKit.CryptoKitError.Type) -> (Swift.Int32) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property wrapFailure of type (CryptoKit.CryptoKitError.Type) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property unwrapFailure of type (CryptoKit.CryptoKitError.Type) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property invalidParameter of type (CryptoKit.CryptoKitError.Type) -> CryptoKit.CryptoKitError. Skipping.
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property invalidFieldIdentifier of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property unexpectedFieldType of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property invalidObjectIdentifier of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property invalidASN1Object of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property invalidASN1IntegerEncoding of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property truncatedASN1Field of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property unsupportedFieldLength of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property invalidPEMDocument of type (CryptoKit.CryptoKitASN1Error.Type) -> CryptoKit.CryptoKitASN1Error. Skipping.
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property HKDF_SHA256 of type (CryptoKit.HPKE.KDF.Type) -> CryptoKit.HPKE.KDF. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property HKDF_SHA384 of type (CryptoKit.HPKE.KDF.Type) -> CryptoKit.HPKE.KDF. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property HKDF_SHA512 of type (CryptoKit.HPKE.KDF.Type) -> CryptoKit.HPKE.KDF. Skipping.
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property P256_HKDF_SHA256 of type (CryptoKit.HPKE.KEM.Type) -> CryptoKit.HPKE.KEM. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property P384_HKDF_SHA384 of type (CryptoKit.HPKE.KEM.Type) -> CryptoKit.HPKE.KEM. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property P521_HKDF_SHA512 of type (CryptoKit.HPKE.KEM.Type) -> CryptoKit.HPKE.KEM. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property Curve25519_HKDF_SHA256 of type (CryptoKit.HPKE.KEM.Type) -> CryptoKit.HPKE.KEM. Skipping.
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property AES_GCM_128 of type (CryptoKit.HPKE.AEAD.Type) -> CryptoKit.HPKE.AEAD. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property AES_GCM_256 of type (CryptoKit.HPKE.AEAD.Type) -> CryptoKit.HPKE.AEAD. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property chaChaPoly of type (CryptoKit.HPKE.AEAD.Type) -> CryptoKit.HPKE.AEAD. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property exportOnly of type (CryptoKit.HPKE.AEAD.Type) -> CryptoKit.HPKE.AEAD. Skipping.
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported generic parameters
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property inconsistentParameters of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property inconsistentCiphersuiteAndKey of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property exportOnlyMode of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property inconsistentPSKInputs of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property expectedPSK of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property unexpectedPSK of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property outOfRangeSequenceNumber of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.PropertyHandler[0]
+      PropertyHandler: Couldn't process property ciphertextTooShort of type (CryptoKit.HPKE.Errors.Type) -> CryptoKit.HPKE.Errors. Skipping.
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.MethodHandler[0]
+      Method withUnsafeBytes has unsupported signature: ( Swift.AnyType arg0) -> T0
+warn: BindingsGeneration.MethodHandler[0]
+      Method hash has unsupported signature: ( Swift.AnyType into) -> void
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported signature: ( Swift.Data dataRepresentation,  Swift.AnyType<Swift.AnyType> authenticationContext) -> Swift.CryptoKit.SecureEnclave.P256.Signing.PrivateKey
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported signature: ( System.Boolean compactRepresentable,  Swift.AnyType accessControl,  Swift.AnyType<Swift.AnyType> authenticationContext) -> Swift.CryptoKit.SecureEnclave.P256.Signing.PrivateKey
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported signature: ( Swift.Data dataRepresentation,  Swift.AnyType<Swift.AnyType> authenticationContext) -> Swift.CryptoKit.SecureEnclave.P256.KeyAgreement.PrivateKey
+warn: BindingsGeneration.ConstructorHandler[0]
+      Constructor init has unsupported signature: ( System.Boolean compactRepresentable,  Swift.AnyType accessControl,  Swift.AnyType<Swift.AnyType> authenticationContext) -> Swift.CryptoKit.SecureEnclave.P256.KeyAgreement.PrivateKey
+info: BindingsGeneration.BindingsGenerator[0]
+      Bindings generation completed for ./CryptoKit.abi.json.
