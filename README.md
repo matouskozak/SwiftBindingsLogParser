@@ -4,7 +4,7 @@ SwiftBindingsLogParser is an MCP server integrated with VSCode Copilot, designed
 ## Setup
 - VSCode insiders + GitHub Copilot (e.g., GPT-4o) in Agent mode.
 - Installed Python `uv` or `pip` package managers.
-- *.vscode/mcp.json*:
+- Add *.vscode/mcp.json* with the following content:
 ```
 {
     "mcpServers": {
