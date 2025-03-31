@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "SwiftBindingsLogParser": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "${workspaceFolder}/server",
+                "run",
+                "main.py"
+            ],
+            "env": {}
+        },
+    }
+}
