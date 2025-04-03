@@ -93,7 +93,6 @@ def check_and_update_log_cache(log_path: str, cache: dict) -> str:
 
         return cache[log_path]
     
-
 def generate_summary_report(component_data):    
     # Overview section
     markdown = "# Swift Bindings Log Summary Report\n\n"
